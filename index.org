@@ -18,21 +18,35 @@
 ** Projects
 ** Work History
 *** Discrete Math TA @ BYU-I
-**** July -- Present
+**** July 2019 -- Present
 **** Responsibilities
      - Write and grade weekly reading quizes
      - Manage open tutor lab helping varioius students with the class
      - Help students learn the concepts of discrete math in eLisp
 *** Student Lead Custodian @ BYU-I
+**** June 2019 -- September 2019
+**** Responsibilities
+     - Lead a team of student employees to clean and maintain university facilities
+     -
 *** Custodian @ BYU-I
+**** April 2019 -- June 2019
+**** Responsibilities
 *** Team Member @ Wendeys
+**** January 2019 -- April 2019
 *** Software Development Intern @ The Church of Jesus Christ of Latter-day Saints
+**** August 2018 -- December 2018
 *** Custodian @ BYU-I
+**** January 2018 -- July 2018
 *** Sales Rep @ Petersen's Clothing
+**** June 2016 -- December 2017
 *** Team Member @ Big Bun Drive-in
+**** April 2016 -- June 2016
 *** Sales Rep @ Deseret Industries
+**** January 2016 -- April 2016
 *** Volunter representitive @ The Church of Jesus Christ of Latter-day Saints
+**** December 2013 -- November 2015
 *** Electritian's Apprentice @ Anderson & Wood Construction
+**** August 2013 -- November 2013
 * Repositories
 ** [[https://github.com/bradenrice/APRS_Balloon_tracker][APRS Balloon Tracker]]
    A simple tracker for individual APRS devices.
