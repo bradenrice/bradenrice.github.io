@@ -1,2 +1,38 @@
 #+TITLE: Braden Rice
 #+LANGUAGE: en
+#+OPTIONS: H:4 num:nil toc:nil \n:nil @:t ::t |:t ^:t *:t TeX:t LaTeX:t
+#+OPTIONS: html-postamble:nil
+#+STARTUP: showeverything entitiespretty
+#+SETUPFILE: c:/Users/brade/org-html-themes/setup/theme-bigblow.setup
+* Resume
+** Education
+   Brigham Young University Idaho -- B.S. Computer Science -- July 2020
+** Skills
+   | Programing Languages |
+   |----------------------|
+   | Java                 |
+   | C++                  |
+   | Lisp                 |
+   | haskell              |
+   |                      |
+** Projects
+** Work History
+*** Discrete Math TA @ BYU-I
+**** July -- Present
+**** Responsibilities
+     - Write and grade weekly reading quizes
+     - Manage open tutor lab helping varioius students with the class
+     - Help students learn the concepts of discrete math in eLisp
+*** Student Lead Custodian @ BYU-I
+*** Custodian @ BYU-I
+*** Team Member @ Wendeys
+*** Software Development Intern @ The Church of Jesus Christ of Latter-day Saints
+*** Custodian @ BYU-I
+*** Sales Rep @ Petersen's Clothing
+*** Team Member @ Big Bun Drive-in
+*** Sales Rep @ Deseret Industries
+*** Volunter representitive @ The Church of Jesus Christ of Latter-day Saints
+*** Electritian's Apprentice @ Anderson & Wood Construction
+* Repositories
+** [[https://github.com/bradenrice/APRS_Balloon_tracker][APRS Balloon Tracker]]
+   A simple tracker for individual APRS devices.

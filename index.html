@@ -3,7 +3,7 @@
 "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
 <head>
-<!-- 2019-09-11 Wed 08:16 -->
+<!-- 2019-09-12 Thu 13:18 -->
 <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <title>Braden Rice</title>
@@ -203,52 +203,6 @@
 <script type="text/javascript" src="https://fniessen.github.io/org-html-themes/styles/bigblow/js/bigblow.js"></script>
 <script type="text/javascript" src="https://fniessen.github.io/org-html-themes/styles/bigblow/js/hideshow.js"></script>
 <script type="text/javascript" src="https://fniessen.github.io/org-html-themes/styles/lib/js/jquery.stickytableheaders.min.js"></script>
-<script type="text/javascript">document.helps = [];</script>
-<script type="text/javascript">
-function draw(levels) {
-var c = document.getElementById("btree");
-var w = c.width;
-var h = c.height;
-var ctx = c.getContext("2d");
-var repeat_delay = 3000;
-var teardown_delay = 1000;
-var level_delay = 500;
-var margins = 10;
-// If h_frac is changed, slope will need to be adjusted to
-// prevent overlap.  I might fix this in the future.
-var h_frac = 2;
-var slope = ((h - margins * 2) / 2) / (w - margins * 2);
-ctx.clearRect(0, 0, w, h);
-// This goes in here so that above variables will be in scope
-function lines(dist, loc, depth, delay=0) {
-function render_lines(dist, loc) {
-ctx.beginPath();
-ctx.moveTo(loc[0], loc[1]);
-ctx.lineTo(loc[0] + dist, loc[1] + slope * -dist);
-ctx.moveTo(loc[0], loc[1]);
-ctx.lineTo(loc[0] + dist, loc[1] + slope * dist);
-ctx.stroke();
-}
-setTimeout(render_lines, delay, dist, loc);
-setTimeout(function (x) {ctx.clearRect(x, 0, w, h)},
-level_delay * levels * 2 + teardown_delay - delay,
-loc[0]);
-depth--;
-if (depth) {
-lines((dist / h_frac) * (h_frac - 1),
-[loc[0] + dist, loc[1] + slope * -dist],
-depth,
-delay + level_delay);
-lines((dist / h_frac) * (h_frac - 1),
-[loc[0] + dist, loc[1] + slope *  dist],
-depth,
-delay + level_delay);
-}
-}
-lines((w - margins * 2) / h_frac, [margins, h/2], levels);
-setTimeout(draw, repeat_delay + teardown_delay + levels * level_delay * 2, levels);
-}
-</script>
 <script type="text/javascript">
 /*
 @licstart  The following is the entire license notice for the
@@ -299,19 +253,106 @@ for the JavaScript code in this tag.
 <body>
 <div id="content">
 <h1 class="title">Braden Rice</h1>
-<div id="outline-container-org0ac5fb5" class="outline-2">
-<h2 id="org0ac5fb5">Repositories</h2>
-<div class="outline-text-2" id="text-org0ac5fb5">
+<div id="outline-container-org2ebd393" class="outline-2">
+<h2 id="org2ebd393">Resume</h2>
+<div class="outline-text-2" id="text-org2ebd393">
 </div>
-<div id="outline-container-org699abdf" class="outline-3">
-<h3 id="org699abdf">repo 1</h3>
+<div id="outline-container-orgc9fe303" class="outline-3">
+<h3 id="orgc9fe303">Education</h3>
+<div class="outline-text-3" id="text-orgc9fe303">
+<p>
+Brigham Young University Idaho &#x2013; B.S. Computer Science &#x2013; July 2020
+</p>
 </div>
-<div id="outline-container-org9a39879" class="outline-3">
-<h3 id="org9a39879">repo 2</h3>
+</div>
+<div id="outline-container-org301966b" class="outline-3">
+<h3 id="org301966b">Skills</h3>
+<div class="outline-text-3" id="text-org301966b">
+<table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
+
+
+<colgroup>
+<col  class="org-left" />
+</colgroup>
+<thead>
+<tr>
+<th scope="col" class="org-left">Programing Languages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="org-left">Java</td>
+</tr>
+
+<tr>
+<td class="org-left">C++</td>
+</tr>
+
+<tr>
+<td class="org-left">Lisp</td>
+</tr>
+
+<tr>
+<td class="org-left">haskell</td>
+</tr>
+</tbody>
+</table>
 </div>
 </div>
-<div id="outline-container-org3ed9bc0" class="outline-2">
-<h2 id="org3ed9bc0">Technical writings</h2>
+<div id="outline-container-org0e618d9" class="outline-3">
+<h3 id="org0e618d9">Projects</h3>
+</div>
+<div id="outline-container-orgf31ce7d" class="outline-3">
+<h3 id="orgf31ce7d">Work History</h3>
+<div class="outline-text-3" id="text-orgf31ce7d">
+</div>
+<div id="outline-container-org88eacbf" class="outline-4">
+<h4 id="org88eacbf">Discrete Math TA @ BYU-I</h4>
+</div>
+<div id="outline-container-orge4c993d" class="outline-4">
+<h4 id="orge4c993d">Student Lead Custodian @ BYU-I</h4>
+</div>
+<div id="outline-container-org39c08a4" class="outline-4">
+<h4 id="org39c08a4">Custodian @ BYU-I</h4>
+</div>
+<div id="outline-container-org1240c04" class="outline-4">
+<h4 id="org1240c04">Team Member @ Wendeys</h4>
+</div>
+<div id="outline-container-org7547e43" class="outline-4">
+<h4 id="org7547e43">Software Development Intern @ The Church of Jesus Christ of Latter-day Saints</h4>
+</div>
+<div id="outline-container-orgcc6144a" class="outline-4">
+<h4 id="orgcc6144a">Custodian @ BYU-I</h4>
+</div>
+<div id="outline-container-org581e2ca" class="outline-4">
+<h4 id="org581e2ca">Sales Rep @ Petersen's Clothing</h4>
+</div>
+<div id="outline-container-org391c3da" class="outline-4">
+<h4 id="org391c3da">Team Member @ Big Bun Drive-in</h4>
+</div>
+<div id="outline-container-orgb117eec" class="outline-4">
+<h4 id="orgb117eec">Sales Rep @ Deseret Industries</h4>
+</div>
+<div id="outline-container-orgddcb45e" class="outline-4">
+<h4 id="orgddcb45e">Volunter representitive @ The Church of Jesus Christ of Latter-day Saints</h4>
+</div>
+<div id="outline-container-org093d48d" class="outline-4">
+<h4 id="org093d48d">Electritian's Apprentice @ Anderson &amp; Wood Construction</h4>
+</div>
+</div>
+</div>
+<div id="outline-container-org24c4cec" class="outline-2">
+<h2 id="org24c4cec">Repositories</h2>
+<div class="outline-text-2" id="text-org24c4cec">
+</div>
+<div id="outline-container-orgdece252" class="outline-3">
+<h3 id="orgdece252"><a href="https://github.com/bradenrice/APRS_Balloon_tracker">APRS Balloon Tracker</a></h3>
+<div class="outline-text-3" id="text-orgdece252">
+<p>
+A simple tracker for individual APRS devices.
+</p>
+</div>
+</div>
 </div>
 </div>
 </body>
