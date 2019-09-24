@@ -1,0 +1,64 @@
+#+TITLE: Tranont
+#+LANGUAGE: en
+#+OPTIONS: H:4 num:nil toc:nil \n:nil @:t ::t |:t ^:t *:t TeX:t LaTeX:t
+#+OPTIONS: html-postamble:nil
+#+STARTUP: showeverything entitiespretty
+#+SETUPFILE: c:/Users/brade/org-html-themes/setup/theme-bigblow.setup
+* Brizo Pure
+* Health
+** Icaria Glow
+*** Advanced Collagen
+**** hydrolyzed collagen
+     Collagen is used to build every cell in your body.
+     It is typically used as a buty product because the most obvious effects are seen in thicker fuller hair and restauration of lost hair,
+     stronger healthier nails, and stronger smoother skin.
+     It can also be used for recovery from workouts and injuries because it helps your body to make all kinds of new cells.
+*** Superfood Antioxidant Blend
+   Health benefits of individual ingredients will be added later.
+**** Alma Extract (Phyllanthus Emblica)
+**** CoffeeBerry\reg Coffee Arabica Fruit Extract
+**** Grape and grape seed extract
+**** Wild blueberry and wild blueberry extract
+**** Rasberry and rasberry seed concentrate
+**** Cranberry
+**** Prune
+**** Tart Cherry
+**** Wild Bilberry and wild bilberry extract
+**** Strawberry
+** Life
+*** Mineral chelates
+**** zinc bisglycinate chelate
+**** copper bisglycinate chelate
+**** manganese bisglycinate chelate
+*** Enzyme blend
+**** Gluden & Protein Enzymes
+***** Protease I
+***** Peptidase
+***** Serrapeptidase
+***** Protease II
+**** Carbohydrate Enzymes
+***** Amylase
+***** Invertase
+***** Maltase
+**** Fiber Enzymes
+***** Hemicellulase
+***** Cellulase
+**** Dairy and Fat Enzymes
+***** Lactase
+***** Liptase
+*** Prebiotic and food blend
+**** Jerusalem Artichoke Inulin
+**** Ginger Root
+**** Inulin (from Chicory Root)
+**** Licorice Root DGL
+**** Glutamine (as Magnesium Glycinate Glutamine Chelate)
+**** Molasses
+*** Probiotic blend
+**** Lactobacillus acidophilus
+**** Lactobacillus plantarum
+**** Streptococcus thermophilus
+**** Lactobacillus bulgaricus
+** Balance
+*** Vitamins and Minerals
+** Restore
+* Wealth
