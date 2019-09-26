@@ -3,26 +3,40 @@
 #+OPTIONS: H:4 num:nil toc:nil \n:nil @:t ::t |:t ^:t *:t TeX:t LaTeX:t
 #+OPTIONS: html-postamble:nil
 #+STARTUP: showeverything entitiespretty
-#+SETUPFILE: c:/Users/brade/org-html-themes/setup/theme-bigblow.setup
+#+SETUPFILE: ./theme-bigblow.setup
 [[https://www.linkedin.com/in/bradenrice/][LinkedIn]]                  [[https://www.facebook.com/bradenpr][Facebook]]
 * Resume
 ** Education
-   Brigham Young University Idaho -- B.S. Computer Science -- July 2020
+*** Brigham Young University Idaho
+    - B.S. Computer Science -- July 2020
 ** Skills
-   | Programing Languages |
-   |----------------------|
-   | Java                 |
-   | C++                  |
-   | Lisp                 |
-   | haskell              |
-   |                      |
+   | Programing Languages | Freameworks | Technical Tools                  | Development             | Other             |
+   |----------------------+-------------+----------------------------------+-------------------------+-------------------|
+   | Java                 | Hibernate   | Git repo admin and configuration | Agile                   | Fluent in Spanish |
+   | C++                  | Spring      | Android App Development          | Secure Code Development |                   |
+   | Lisp                 | Angular     | Unix Command Line                | TCP Develoopment        |                   |
+   | haskell              |             | Google Cloud Platform            | RESTful HTTP            |                   |
+   | Oracle SQL           |             |                                  | Project Management      |                   |
+   |                      |             |                                  | Quality Assurance       |                   |
 ** Projects
+*** Weather Balloon Tracker Android App -- Project Manager
+**** 3 Months
+**** Uses a Bluetooth connection to an amateur radio to receive location packets (APRS) and display the location of the weather balloon on a Google Map display
+*** Smart Home Fire Alarm System -- Designer
+**** 3 Months
+**** Project proposal for a smart system in a home that can detect fires before they happen and notify residents of dangerous situations
+*** Wage Study Design Documentation -- Team Lead
+**** 3 Months
+**** SRS and SDD for a Cloud hosted web service that helps Government entities perform wage studies and compare their positions to those of other entities of similar size
+*** University VS Code Server -- Side Project with the System Admin
+**** 2 Months
+**** A service that runs on the BYU-I LinuxLab to allow students to connect remotely with VS Code and edit, compile and run their code
 ** Work History
 *** Discrete Math TA @ BYU-I
 **** July 2019 -- Present
 **** Responsibilities
-     - Write and grade weekly reading quizes
-     - Manage open tutor lab helping varioius students with the class
+     - Write and grade weekly reading quizzes
+     - Manage open tutor lab helping various students with the class
      - Help students learn the concepts of discrete math in eLisp
 *** Student Lead Custodian @ BYU-I
 **** June 2019 -- September 2019
@@ -42,19 +56,37 @@
 *** Software Development Intern @ The Church of Jesus Christ of Latter-day Saints
 **** August 2018 -- December 2018
 **** Responsibilities
-     -
+     - Created a service that queried the project database for individual documents and all of the
+     associated data to speed up the debugging process from about 30 minutes to 2 minutes and
+     presented the data in a much more readable format
+     - Worked with the quality assurance team to test an essential XML validation service with great attention to detail
 *** Custodian @ BYU-I
 **** January 2018 -- July 2018
+**** Responsibilities
+     - Work with a team of other student employees to clean and maintain university facilities
+     - Asist in the setup of weekend campus events
 *** Sales Rep @ Petersen's Clothing
 **** June 2016 -- December 2017
+**** Responsibilities
+     - Help customers prepare to spend two years in various parts of the world
+     - Write a program to mantain a list of customers simplifying a task that would take three weeks to ten minutes
 *** Team Member @ Big Bun Drive-in
 **** April 2016 -- June 2016
+**** Responsibilities
+     - Work with a team to prepare high volumes of food cooked to order
 *** Sales Rep @ Deseret Industries
 **** January 2016 -- April 2016
+**** Responsibilities
+     - Keep the sales floor stocked with large donated items
+     - Help customers find different items that fit their various needs
 *** Volunter representitive @ The Church of Jesus Christ of Latter-day Saints
 **** December 2013 -- November 2015
+**** Responsibilities
+     - Work every day to find people to serve
+     - Mantain my own schedule to set up apointments with different people
 *** Electritian's Apprentice @ Anderson & Wood Construction
 **** August 2013 -- November 2013
+     - Read industrial schematics and apply them to build high and low voltage electrical systems
 * Repositories
 ** [[https://github.com/bradenrice/APRS_Balloon_tracker][APRS Balloon Tracker]]
    A simple tracker for individual APRS devices.
