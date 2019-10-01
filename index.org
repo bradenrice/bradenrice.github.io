@@ -4,6 +4,9 @@
 #+OPTIONS: html-postamble:nil
 #+STARTUP: showeverything entitiespretty
 #+SETUPFILE: ./theme-bigblow.setup
+* Intro
+[[./ABK_6421.jpg]]
+
 As every employer knows, there is only so much information that can be represented on a one-page resume.
 I have made this page to be able to really represent the kind of worker that I am.
 
@@ -14,8 +17,29 @@ I have had a very diverse educational career as I began studying for a double ba
 before transfering to Brigham Young University Idaho where a double bachelors degree was not possible and I chose to study Computer Science.
 
 I truely enjoy all of computer science. More than once, at my internship, I accidentally stayed an hour over time because I was too interested in the task
-that I had been given. That being said, I am truely interested in Artificial Intelligence and all of it's many applications that can make so many aspects
-of our lives
+that I had been given. That being said, I am especially interested in Artificial Intelligence and all of it's many applications that can make so many aspects
+of our lives.
+
+[[./img_3473.jpg]]
+
+I love my family. My wife and daughter are the most important things in my life. I am seeking a job where I can work in the field that I enjoy but still be able to put them first.
+
+With my family I love my religion. As I believe that families are meant to be together forever and my religion is meant to make that possible, my religion without my family is
+pointless and my family without my relifion is finite. I cannot imagine one without the other.
+
+[[./IMG_20170821_111314632.jpg]]
+
+I also have many hobbies that I enjoy. If I could live outside I would. I love all outdoor activities like camping, hiking, and swimming. I also love spending time in
+the gym or any kind of sport, including snow sports like skiing and snowboarding. I enjoy table games and video games as long as they are with other people. I don't like single
+player games.
+
+I can also be found spending lots of free time on projects. Any time that I find something that I can do to make my life, or the lives of those around me, easier it becomes a personal
+project that I still enjoy and can spend hours on without even realizing that time has passed.
+
+If you are reading this because I recently applied for a job with you, thank you for the opportunity to apply. I look forward to hearing from you and making a positive contribution to your team soon.
+
+[[./IMG_20181210_152742.jpg]]
+
 * Resume
 ** Education
 *** Brigham Young University Idaho
