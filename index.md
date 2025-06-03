@@ -20,7 +20,7 @@ cyber security from HackTheBox.com
 # Anything is Possible
 
 I took a computational theory class where we discussed the actual, proven
-limitations of computers. If the task is anything less than that, than there
+limitations of computers. If the task is anything less than that, then there
 is a way to do it.
 
 # Goals
