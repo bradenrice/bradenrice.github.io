@@ -1,3 +1,5 @@
+# Braden Rice
+
 ## About Me
 I am a husband, a father of two, and an engineer who loves to take things apart to see how they work. I graduated from Brigham Young University - Idaho in 2020 with a BS in Computer Science.
 
