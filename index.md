@@ -1,36 +1,26 @@
-# About Me
-I am married and have two children. I graduated from 
-Brigham Young University - Idaho in 2020 with a BS in Computer Science. 
+# Braden Rice
+## Engineer. System Architect. Problem Solver.
 
-Since then, I worked at Hill AFB in F-16 Automation Testing and then at
-Micron in factory automation.
+## About Me
+I am a husband, a father of two, and an engineer who loves to take things apart to see how they work. I graduated from Brigham Young University - Idaho in 2020 with a BS in Computer Science.
 
-I always try to stay up to date on the latest technology including generative
-AI companions, AI development, containers and container orchestration, leading 
-cloud platforms, and cyber security.
+My career is built on a foundation of automation and efficiency. From validating F-16 software at Hill AFB to managing large-scale factory automation systems at Micron, I have always gravitated toward roles where I can build tools that make complex systems run smoother.
 
-# Projects
-I have a Raspberry Pi that I enjoy turning into different things. I first got
-it to implement a personal DNS service service that could be used to block ads
-or other domains on my home network.
+I am a lifelong learner who stays on the cutting edge of technology—experimenting with Generative AI, Container Orchestration, and Cloud Architecture to find new ways to solve old problems.
 
-Now, it is running parrot os which I use to climb the ranks and learn 
-cyber security from HackTheBox.com
+## My Philosophy: "The Art of the Solvable"
+In university, I took a course on Computational Theory where we defined the mathematical boundaries of what a computer can and cannot do. That class shaped my entire professional outlook: *"If a problem doesn't violate the fundamental laws of computation, it is solvable. The rest is just engineering."* I approach every blocker with this mindset. Whether it is a technical constraint or a process bottleneck, there is always a path to a solution.
 
-# Anything is Possible
+## The Lab & Interests
 
-I took a computational theory class where we discussed the actual, proven
-limitations of computers. If the task is anything less than that, then there
-is a way to do it.
+### Cybersecurity & Network Defense
+I maintain a home lab environment running Parrot OS to practice penetration testing and network hardening. I actively compete on HackTheBox to sharpen my understanding of security vulnerabilities.
 
-# Goals
+### Mechanical Engineering
+When I am not at a keyboard, I am usually in the garage. I have a passion for motorcycle restoration and modification, applying the same systems-thinking I use in code to physical mechanical design.
 
-I hope to never stop learning and gworing. I want to be in a job where I can
-think and innovate and create. I love any field and any technology as long
-as I can solve problems and contribute my own ideas
+## Goals
+I am looking for a role where I can think, innovate, and create. I thrive in environments that allow me to contribute original ideas and solve difficult problems. I am industry-agnostic; I love any field where technology can be used to drive improvement, whether that is in software development, manufacturing, or operations leadership.
 
-# Social Media
-
-You can find me on [Facebook](https://www.facebook.com/braden.rice.376), 
-[LinkedIn](https://www.linkedin.com/in/braden-rice-082140200/),
-and [GitHub](https://github.com/bradenrice).
+## Connect
+[LinkedIn](https://www.linkedin.com/in/braden-rice-082140200/) | [GitHub](https://github.com/bradenrice)
